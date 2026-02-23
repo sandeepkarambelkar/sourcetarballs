@@ -1,0 +1,2 @@
+update-ssh-keys/update-ssh-keys-0.7.0-vendor.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
